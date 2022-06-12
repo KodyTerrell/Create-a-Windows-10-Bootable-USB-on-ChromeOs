@@ -8,8 +8,8 @@ Project consists of creating a Windows 10 bootable USB flash/thumb drive on Chro
 
 - <b>Chromebook Laptop</b> 
 - <b>USB flash/thumb drive (Must be atleast 8gb)</b>
-- <b>Google Chrome</b>
-- <i>Chromebook Recovery Utility</i>
+- <b>Google Chrome Web Browser</b>
+- <b>Chromebook Recovery Utility Extension</b>
 
 <h2>Environments Used </h2>
 
