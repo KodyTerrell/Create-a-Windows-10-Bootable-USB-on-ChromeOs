@@ -1,6 +1,6 @@
 # How to create a Windows 10 bootable usb on ChromeOS 
 <h2>Description</h2>
-Disk sanitization is the process of physically obliterating data by overwriting disks with specified byte patterns or random data so that recovery of the original data becomes impossible. However, this project consists of wiping or zeroing out a particular drive connected to the system. In addition, the utility will perform the task on a specific disk and number of passes selected by the user. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+'Disk sanitization' is the process of +physically+ obliterating data by overwriting disks !with! specified byte patterns or random data so that recovery of the original data becomes impossible. However, this project consists of wiping or zeroing out a particular drive connected to the system. In addition, the utility will perform the task on a specific disk and number of passes selected by the user. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 <br />
 
 
