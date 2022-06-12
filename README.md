@@ -13,13 +13,17 @@ Project consists of creating a Windows 10 bootable USB flash/thumb drive on Chro
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Walk-through:</h2>
+<b> [Windows 10](https://www.microsoft.com/en-au/software-download/windows10)(21H2) <br />
+ 
+ 
+ <h2>Walk-through <h2/>
+  <br />
 
 <p align="center">
-Access [Microsoft](https://www.microsoft.com/en-us/software-download/windows10)
- <br/>
+ Download Windows 10 64-bit version <br/>
+ 
+ 
+ 
 
 ![Screenshot 2022-06-11 8 19 11 PM](https://user-images.githubusercontent.com/93538059/173246629-582188ce-b23d-456b-96ca-7398eb41a929.png)
  
