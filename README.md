@@ -7,7 +7,7 @@ Project consists of creating a Windows 10 bootable USB flash/thumb drive on Chro
 <h2>Hardware and Applications Used</h2>
 
 - <b>Chromebook Laptop</b> 
-- <b>USB flash/thumb drive (Must be atleast 8gb)</b>
+- <b>USB flash/thumb drive (atleast 8gb)</b>
 - <b>Google Chrome Web Browser</b>
 - <b>Chromebook Recovery Utility Extension</b>
 
@@ -27,14 +27,16 @@ Project consists of creating a Windows 10 bootable USB flash/thumb drive on Chro
 <br />
 <br />
 Find and rename the .iso file to ".bin" : <br/>
+  
   ![unnamed](https://user-images.githubusercontent.com/93538059/173252840-699acf9b-bb14-4159-bfe1-931d63eccd11.png) 
 <br />
 <br />
 Add the ChromeBook Recovery Utility Extension:  <br/>
+  
   ![unnamed](https://user-images.githubusercontent.com/93538059/173252758-28f26e64-6aef-47d8-8c94-c92e185a4592.png) 
 <br />
 <br />
-Insert USB (at least 8gb) and launch the extension:  <br/>
+Insert USB and launch the extension:  <br/>
   ![unnamed](https://user-images.githubusercontent.com/93538059/173253100-d323257d-ee9a-43f5-9f74-7cfd4a508d38.png)
 <br />
 <br />
