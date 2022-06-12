@@ -15,11 +15,15 @@ Project consists of creating a Windows 10 bootable USB flash/thumb drive on Chro
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
+ 
 
+<img src="https://imgur.com/a/ZcALOaj" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ 
 <br />
 <br />
 Select the disk:  <br/>
