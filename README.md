@@ -13,47 +13,60 @@ Project consists of creating a Windows 10 bootable USB flash/thumb drive on Chro
 
 <h2>Environments Used </h2>
 
-<b> [Windows 10](https://www.microsoft.com/en-au/software-download/windows10)(21H2) <br />
- 
+<b> [Windows 10](https://www.microsoft.com/en-au/software-download/windows10)(21H2) <b/>
+
  
  <h2>Walk-through <h2/>
-  <br />
-
-<p align="center">
- Download Windows 10 64-bit version <br/>
- 
- 
- 
-
+  <b/>
+  
+ <p align="center">
+  
+  <h6> Download Windows 10 64-bit version: </h6> 
+  
 ![Screenshot 2022-06-11 8 19 11 PM](https://user-images.githubusercontent.com/93538059/173246629-582188ce-b23d-456b-96ca-7398eb41a929.png)
  
+<br />
+<br />
+Add the ChromeBook Recovery Utility Extension:  <br/>
+  
+  ![unnamed](https://user-images.githubusercontent.com/93538059/173252758-28f26e64-6aef-47d8-8c94-c92e185a4592.png)
+
+<br />
+<br />
+Find and Rename the .ISO file to ".bin" : <br/>
+
+  ![unnamed](https://user-images.githubusercontent.com/93538059/173252840-699acf9b-bb14-4159-bfe1-931d63eccd11.png)
+  
+<br />
+<br />
+Launch the extension and follow the prompt:  <br/>
+
  
+![unnamed](https://user-images.githubusercontent.com/93538059/173252951-a200d805-d5da-4581-b731-fc5ec39ee114.png)
+  
 <br />
 <br />
-Select the disk:  <br/>
+Insert your USB (at least 8gb):  <br/>
+
+  ![unnamed](https://user-images.githubusercontent.com/93538059/173253100-d323257d-ee9a-43f5-9f74-7cfd4a508d38.png)
+  
+<br />
+<br />
+Select Use Local Image and Create Now:  <br/>
+  
+  ![unnamed](https://user-images.githubusercontent.com/93538059/173252981-5341f9d3-f9b3-495d-94a3-f40d6f722a7b.png)
+
 
 <br />
 <br />
-Enter the number of passes: <br/>
+Your Windows 10 Bootable USB is now ready:  <br/>
 
-<br />
-<br />
-Confirm your selection:  <br/>
-
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-
-<br />
-<br />
-Sanitization complete:  <br/>
-
-<br />
-<br />
-Observe the wiped disk:  <br/>
-
+ ![unnamed](https://user-images.githubusercontent.com/93538059/173253058-8ce94941-e7e0-4ab3-9b32-885802a3d5fc.png) 
+  
 </p>
 
+  
+  
 <!--
  ```diff
 - text in red
