@@ -37,18 +37,22 @@ Add the ChromeBook Recovery Utility Extension:  <br/>
 <br />
 <br />
 Insert USB and launch the extension:  <br/>
+  
   ![unnamed](https://user-images.githubusercontent.com/93538059/173253100-d323257d-ee9a-43f5-9f74-7cfd4a508d38.png)
 <br />
 <br />
 Launch the extension and follow the prompt:  <br/>
+  
 ![unnamed](https://user-images.githubusercontent.com/93538059/173252951-a200d805-d5da-4581-b731-fc5ec39ee114.png)
 <br />
 <br />
 Select "Use Local Image" and "Create Now":  <br/>
+  
   ![unnamed](https://user-images.githubusercontent.com/93538059/173252981-5341f9d3-f9b3-495d-94a3-f40d6f722a7b.png)
 <br />
 <br />
 Your Windows 10 Bootable USB is now ready:  <br/>
+  
  ![unnamed](https://user-images.githubusercontent.com/93538059/173253058-8ce94941-e7e0-4ab3-9b32-885802a3d5fc.png) 
 </p>
   
