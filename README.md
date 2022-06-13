@@ -1,6 +1,6 @@
 # How to create a Windows 10 Bootable USB on ChromeOS 
 <h2>Description</h2>
-Project consists of creating a Windows 10 bootable USB flash/thumb drive on ChromeOS. However, ChromeOS does not recognize ISO files therfore extra steps are needed to to load the installation media onto the removable USB. 
+Project consists of creating a Windows 10 bootable USB flash/thumb drive on ChromeOS. However, ChromeOS does not recognize ISO files therefore extra steps are needed to to load the installation media onto the removable USB. 
 <br />
 
 
